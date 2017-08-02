@@ -2048,6 +2048,7 @@
 			h1, h2, h3, h4, h5, h6 {
 				font-size: 1.25em;
 				margin: 0 0 0.4em 0;
+				font-family: 華康榜書體 Std W8;
 			}
 
 			h1 {
@@ -2092,6 +2093,7 @@
 				font-size: 1.2em;
 				width: 100%;
 				padding: 1em 0 1em 0;
+				font-family: 文鼎圓體;
 			}
 
 		/* List */
