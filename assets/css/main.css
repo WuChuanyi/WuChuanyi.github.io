@@ -2,17 +2,17 @@
 @import url("font-awesome.min.css");
 @font-face {
     font-family: 華康儷金黑 Std W8;
-    src: url(https://wuchuanyi.github.io/assets/fonts/ARYuanB5Medium.otf);
+    src: url(/assets/fonts/ARYuanB5Medium.otf);
 }
 
 @font-face {
     font-family: 華康榜書體 Std W8;
-    src: url(https://wuchuanyi.github.io/assets/fonts/DFBangShuStd-W8.otf);
+    src: url(/assets/fonts/DFBangShuStd-W8.otf);
 }
 
 @font-face {
     font-family: 文鼎圓體;
-    src: url(https://wuchuanyi.github.io/assets/fonts/DFLiKingHeiStd-W8.otf);
+    src: url(/assets/fonts/DFLiKingHeiStd-W8.otf);
 }
 /*
 	Miniport by HTML5 UP
