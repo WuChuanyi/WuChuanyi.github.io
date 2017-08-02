@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: 華康榜書體 Std W8;
-    src: url('/assets/fonts/DFBangShuStd-W8.otf');
+    src: url('../fonts/DFBangShuStd-W8.otf');
 }
 
 @font-face {
     font-family: 文鼎圓體;
-    src: url('/assets/fonts/DFLiKingHeiStd-W8.otf');
+    src: url('../fonts/DFLiKingHeiStd-W8.otf');
 }
 /*
 	Miniport by HTML5 UP
